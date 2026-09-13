@@ -1,2 +1,2 @@
 # Orbital-Mechanics
-An project in progress!
+A project in progress!
